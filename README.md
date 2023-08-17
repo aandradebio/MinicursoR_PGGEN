@@ -38,7 +38,9 @@ Aula 3 (24/08/23) - Aula prática:
 *Conteúdos adicionais:*
 
 Curso básico de R para Bioinformática (ministrado em 2020 no Laboratório Nacional de Computação Científica): https://www.youtube.com/watch?v=pHKoVEk9wZc
+
 R e Rstudio para iniciantes: https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/
+
 Instalação dos programas: https://rstudio-education.github.io/hopr/starting.html
 
 *Sobre mim*
