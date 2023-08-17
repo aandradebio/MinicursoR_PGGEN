@@ -49,3 +49,5 @@ Amanda Araújo Serrão de Andrade, Biomédica, Mestre em Modelagem Computacional
 Experiências e habilidades em Biologia Computacional, atualmente voltadas na aplicação de técnicas de aprendizagem de máquina na genómica viral. 
 Fluência nas linguagens de programação: R, python, C++ e Bash;
 Experiência na análise de dados de NGS, incluindo montagem de genomas, identificação de variantes, reconstrução de quase-espécies, alinhamento, filogenia, análise da expressão genética diferencial, perfil taxonómico, análise da diversidade e anotação funcional de comunidades microbianas.
+
+Contato: aandradebio@gmail.com
