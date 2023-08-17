@@ -1,6 +1,6 @@
 # Minicurso de Exploração e Visualização de dados biológicos em R; 
 
-Este repositório foi criado para guardar os scripts e as aulas relacionadas ao Minicurso de Exploração e Visualização de dados biológicos em R, que será ministrado no Simpósio da PGGEN (UFRJ) no período de 22 a 24 de 2023. Conteúdo voltado para os alunos do curso. 
+Este repositório foi criado para hospedar os scripts e as aulas relacionadas ao Minicurso de Exploração e Visualização de dados biológicos em R, que será ministrado no Simpósio da PGGEN (UFRJ) no período de 22 a 24 de 2023. Conteúdo voltado para os alunos do curso. 
 
 *Conteúdo programático:*
 
