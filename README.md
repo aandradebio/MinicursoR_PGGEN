@@ -1,34 +1,42 @@
 # Minicurso de Exploração e Visualização de dados biológicos em R; 
 
-Este repositório foi criado para hospedar os scripts e as aulas relacionadas ao Minicurso de Exploração e Visualização de dados biológicos em R, que será ministrado no Simpósio da PGGEN (UFRJ) no período de 22 a 24 de 2023. Conteúdo voltado para os alunos do curso. 
+Este repositório foi criado para hospedar os scripts e as aulas relacionadas ao Minicurso de Exploração e Visualização de dados biológicos em R, que será ministrado no Simpósio da PGGEN (UFRJ) no período de 27 a 29 de Setembro de 2023. Conteúdo voltado para os alunos do curso. 
 
-*Conteúdo programático:*
+## Objetivo do curso:
+Fornecer uma base essencial para que os alunos possam explorar e visualizar dados biológicos de maneira eficaz, utilizando a linguagem de programação R como ferramenta principal.
 
-Aula 1 (22/08/23): 
-1) Introdução do curso;
-2) Introdução a exploração e manipulação de dados (aula teórica);
-3) Introdução a visualização de dados, incluindo boas práticas, ferramentas disponíveis e pacotes (aula teórica);
-4) Instalação dos pacotes necessários;
-5) R básico;
+Neste curso rápido você aprenderá:
+1) Fundamentos do R e sua aplicação na análise de dados biológicos.
+2) Importação e preparação de dados biológicos para análise.
+3) Pré-processamento de dados para garantir a qualidade e confiabilidade das análises.
+4) Técnicas de visualização para compreender e comunicar informações importantes.
+5) Aplicação prática em conjuntos de dados do mundo real para insights biológicos significativos.
 
-Aula 2 (23/08/23) - Aula prática:
-1) Leitura de dados em R;
-2) Data types;
-3) Estatística descritiva;
-4) Reamostragens;
-5) Transformação;
-6) Remoção de valores nulos e colunas de baixa variação;
-7) Reordenação;
-8) Escrita de dados em R; 
-   
-Aula 3 (24/08/23) - Aula prática: 
-1) Gráficos de barra e pizza;
-2) Boxplots;
-3) Gŕaficos de linhas;
-4) Dendogramas e Árvores filogenéticas;
-5) Gráficos iterativos;
-6) Personalização de gráficos (cores, títulos, temas, reorganização, legendas, fontes, escalas, e mais);
-7) Preparação de gráficos de alta qualidade para publicações científicas; 
+## Conteúdo programático:
+
+### Dia 1: Introdução ao R e Importação de Dados (9h - 11h)
+
+- Visão geral do R e sua relevância na bioinformática.
+- Instalação das dependências.
+- Introdução ao tidyverse.
+- O pacote Biostrings.
+- Importação de dados biológicos para o R.
+- Exercício prático: Importação e exploração de um pequeno conjunto de dados biológicos.
+  
+### Dia 2: Pré-processamento e análise exploratória de Dados (9h - 11h)
+
+- Estatísticas descritivas para dados biológicos (Objetos DNAStringSet e dataframes).
+- Pré-processamento de dados: tratamento de dados ausentes, transformação de dados e controle de qualidade.
+- Exercício prático: Pré-processamento e condução de uma análise básica em um conjunto de dados do mundo real.
+- Introdução à visualização de dados no R (Pacote ggplot2 - Teórica).
+  
+### Dia 3: Visualização de dados e aplicações do Mundo Real (9h - 11h)
+
+- Discussão das melhores práticas.
+- Criação de gráficos essenciais: gráficos de dispersão, gráficos de caixa, histogramas.
+- Exploração de relações entre variáveis biológicas.
+- Exercício prático: Geração de visualizações básicas para dados biológicos.
+- Desafios na análise de dados biológicos.
 
 *Pré-requisitos:*
 
