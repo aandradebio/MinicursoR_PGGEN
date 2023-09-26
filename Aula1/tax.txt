@@ -1,0 +1,96 @@
+"V1"|"taxaID"|"superkingdom"|"phylum"|"class"|"order"|"family"|"genus"|"species"|"score"
+"MH734972.1"|70566|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Akabane orthobunyavirus"|0.83868620544672
+"NC_025353.1"|198833|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Vesiculovirus"|"Alagoas vesiculovirus"|0.946610292652622
+"AY898809.1"|44017|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Murray Valley encephalitis virus"|0.897890715394169
+"KJ399977.1"|318843|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Sripuvirus"|"Almpiwar sripuvirus"|0.655390398111194
+"NC_043636.1"|45767|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"San Angelo orthobunyavirus"|0.348830019822344
+"MG029271.1"|334520|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Caraparu orthobunyavirus"|0.892234538681805
+"NC_055531.1"|932699|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Barhavirus"|"Bahia barhavirus"|0.741284504299983
+"MW809639.1"|40053|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Corriparta virus"|0.165867618983611
+"KU173874.1"|40054|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Epizootic hemorrhagic disease virus"|0.862627631053329
+"HQ630929.1"|201490|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Equine encephalosis virus"|0.380569248460233
+"KM507345.1"|35304|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Bunyamwera orthobunyavirus"|0.776288922177628
+"NC_009026.2"|64303|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Aroa virus"|0.548387855524197
+"EU564827.1"|35310|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Bwamba orthobunyavirus"|0.144874250283465
+"MK861965.1"|80935|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Cache Valley orthobunyavirus"|0.367059186566621
+"MG664851.1"|37124|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Chikungunya virus"|0.666463825618848
+"AB189120.1"|11053|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Dengue virus"|0.746047286083922
+"LC079089.1"|59300|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Getah virus"|0.472575296647847
+"NC_038737.1"|1678234|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Guama orthobunyavirus"|0.0524139443878084
+"NC_034486.1"|80941|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Guaroa orthobunyavirus"|0.62469135900028
+"FJ185036.1"|11072|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Japanese encephalitis virus"|0.769944522995502
+"MT227562.1"|59301|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Mayaro virus"|0.519122031982988
+"AF075256.1"|60876|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Pixuna virus"|0.382995357271284
+"KJ782455.1"|11588|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Phenuiviridae"|"Phlebovirus"|"Rift Valley fever phlebovirus"|0.213834058726206
+"KY616985.1"|11034|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Sindbis virus"|0.407094110734761
+"MH484335.1"|273347|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Tensaw orthobunyavirus"|0.544712060829625
+"KR013237.1"|1678230|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|NA|"Trubanaman virus"|0.889994941651821
+"HQ842619.1"|40060|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Umatilla virus"|0.128376438515261
+"KY426757.1"|64286|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Usutu virus"|0.747369095450267
+"AY823299.1"|11036|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Venezuelan equine encephalitis virus"|0.109780399361625
+"AF473866.1"|11277|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Vesiculovirus"|"Indiana vesiculovirus"|0.543465276714414
+"FJ483549.1"|11082|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"West Nile virus"|0.542423069244251
+"AF052446.1"|11089|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Yellow fever virus"|0.903879707679152
+"KY989511.1"|64320|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Zika virus"|0.0867381396237761
+"JF459991.1"|64293|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Tembusu virus"|0.471361042466015
+"NC_008719.1"|44026|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Sepik virus"|0.466632381314412
+"MF380430.1"|64290|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Bagaza virus"|0.290222228970379
+"KM225264.1"|1534467|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Kokobera virus"|0.36666325526312
+"NC_043110.1"|38837|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Banzi virus"|0.813940060324967
+"JN572070.1"|273352|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Macaua orthobunyavirus"|0.996336430311203
+"KY910431.1"|11575|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Maguari orthobunyavirus"|0.846858362900093
+"MH484311.1"|80938|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Main Drain orthobunyavirus"|0.607389419572428
+"NC_034496.1"|292278|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Marituba orthobunyavirus"|0.850362232187763
+"KF680222.1"|11023|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Middelburg virus"|0.0115112168714404
+"MF993533.1"|60875|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Mucambo virus"|0.153743404662237
+"MT121985.1"|59302|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Ndumu virus"|0.150478645926341
+"KX100130.1"|273345|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Fort Sherman orthobunyavirus"|0.394924554042518
+"NC_055117.1"|35305|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"California encephalitis orthobunyavirus"|0.346629058243707
+"NC_022639.1"|40052|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Changuinola virus"|0.684202229836956
+"NC_038726.1"|1678225|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Catu orthobunyavirus"|0.789980735629797
+"AF079457.1"|79899|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Onyong-nyong virus"|0.333249562652782
+"NC_043585.1"|273341|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Ilesha orthobunyavirus"|0.0824120433535427
+"KC481679.1"|59563|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Ilheus virus"|0.619998082751408
+"KC734551.1"|64291|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Israel turkey meningoencephalomyelitis virus"|0.923008776037022
+"MK896558.1"|348026|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Oriboca orthobunyavirus"|0.595504260156304
+"HM566194.1"|1972568|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Vesiculovirus"|"Jurona vesiculovirus"|0.612212106119841
+"KR260740.1"|80939|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Kairi orthobunyavirus"|0.871219410793856
+"EU082200.2"|44025|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Koutango virus"|0.905627256026492
+"NC_055206.1"|45270|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Tahyna orthobunyavirus"|0.275803736411035
+"KJ495745.1"|40061|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Wallal virus"|0.466142839752138
+"NC_038614.1"|40062|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Warrego virus"|0.079722291091457
+"NC_023634.1"|904698|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Phenuiviridae"|"Phlebovirus"|"Arumowot phlebovirus"|0.582075610291213
+"GU591167.1"|11577|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"La Crosse orthobunyavirus"|0.660677819512784
+"KP271965.1"|11033|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Semliki Forest virus"|0.104268659139052
+"NC_003900.1"|44158|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Aura virus"|0.955982050159946
+"NC_001786.1"|11020|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Barmah Forest virus"|0.875595966586843
+"MG182017.2"|64318|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Spondweni virus"|0.752991294488311
+"KM972724.1"|1623310|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Tataguine orthobunyavirus"|0.864294926868752
+"EU707555.1"|164416|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Wesselsbron virus"|0.490983001422137
+"KM085030.1"|1272960|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Ephemerovirus"|"Yata ephemerovirus"|0.54133264767006
+"NC_028246.1"|31612|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Ephemerovirus"|"Adelaide River ephemerovirus"|0.692596544977278
+"NC_018460.1"|11582|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Aino orthobunyavirus"|0.587716251378879
+"MH484299.1"|159149|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Shuni orthobunyavirus"|0.525764260441065
+"NC_038594.1"|40057|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Lebombo virus"|0.646419130731374
+"NC_043631.1"|80940|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Lumbo orthbunyavirus"|0.101470853667706
+"NC_038604.1"|40058|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Orungo virus"|0.440024179872125
+"KT002588.1"|40059|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Palyam virus"|0.612275508232415
+"NC_043582.1"|1133363|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Schmallenberg orthobunyavirus"|0.181978090200573
+"NC_043581.1"|80942|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Batai orthobunyavirus"|0.915336405625567
+"NC_016962.1"|59305|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Bebaru virus"|0.540783556178212
+"GQ287646.1"|11039|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Western equine encephalitis virus"|0.234368662815541
+"AB981186.1"|673515|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Quang Binh virus"|0.416621485492215
+"MN233331.1"|11080|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Saint Louis encephalitis virus"|0.631702359765768
+"NC_034481.1"|35316|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Nyando orthobunyavirus"|0.961627555545419
+"NC_018705.3"|64292|"Viruses"|"Kitrinoviricota"|"Flasuviricetes"|"Amarillovirales"|"Flaviviridae"|"Flavivirus"|"Ntaya virus"|0.379599019419402
+"MG747542.1"|118655|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Oropouche orthobunyavirus"|0.763917376054451
+"MK028843.1"|11029|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Ross River virus"|0.141617281595245
+"HM543465.1"|204269|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"Great Island virus"|0.573307747254148
+"KP009781.1"|40050|"Viruses"|"Duplornaviricota"|"Resentoviricetes"|"Reovirales"|"Reoviridae"|"Orbivirus"|"African horse sickness virus"|0.282384007237852
+"KY012742.1"|11303|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Ephemerovirus"|"Bovine fever ephemerovirus"|0.946857907343656
+"NC_038286.1"|11274|"Viruses"|"Negarnaviricota"|"Monjiviricetes"|"Mononegavirales"|"Rhabdoviridae"|"Vesiculovirus"|"Piry vesiculovirus"|0.0323251555673778
+"NC_016960.1"|1159195|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Southern elephant seal virus"|0.0165012727957219
+"NC_016961.1"|48543|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Whataroa virus"|0.601880395552143
+"MN135989.1"|35511|"Viruses"|"Negarnaviricota"|"Ellioviricetes"|"Bunyavirales"|"Peribunyaviridae"|"Orthobunyavirus"|"Jamestown Canyon orthobunyavirus"|0.67516029975377
+"NC_018615.1"|1231903|"Viruses"|"Kitrinoviricota"|"Alsuviricetes"|"Martellivirales"|"Togaviridae"|"Alphavirus"|"Eilat virus"|0.846011872170493
+"NC_002690.1"|12288|"Viruses"|"Kitrinoviricota"|"Magsaviricetes"|"Nodamuvirales"|"Nodaviridae"|"Alphanodavirus"|"Nodamura virus"|0.775097868638113
