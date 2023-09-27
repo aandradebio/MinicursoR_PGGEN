@@ -1,0 +1,96 @@
+"V1","taxaID","superkingdom","phylum","class","order","family","genus","species","num_contigs"
+"MH734972.1",70566,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Akabane orthobunyavirus",83868
+"NC_025353.1",198833,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Vesiculovirus","Alagoas vesiculovirus",946
+"AY898809.1",44017,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Murray Valley encephalitis virus",89789
+"KJ399977.1",318843,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Sripuvirus","Almpiwar sripuvirus",65539
+"NC_043636.1",45767,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","San Angelo orthobunyavirus",3488
+"MG029271.1",334520,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Caraparu orthobunyavirus",892
+"NC_055531.1",932699,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Barhavirus","Bahia barhavirus",7412
+"MW809639.1",40053,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Corriparta virus",1658
+"KU173874.1",40054,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Epizootic hemorrhagic disease virus",8626
+"HQ630929.1",201490,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Equine encephalosis virus",38056
+"KM507345.1",35304,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Bunyamwera orthobunyavirus",77628
+"NC_009026.2",64303,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Aroa virus",54838
+"EU564827.1",35310,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Bwamba orthobunyavirus",144874
+"MK861965.1",80935,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Cache Valley orthobunyavirus",36705
+"MG664851.1",37124,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Chikungunya virus",6664
+"AB189121",11053,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Dengue virus",74604
+"LC079089.1",59300,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Getah virus",4725
+"NC_038737.1",1678234,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Guama orthobunyavirus",524
+"NC_034486.1",80941,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Guaroa orthobunyavirus",6241
+"FJ185036.1",11072,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Japanese encephalitis virus",7699
+"MT227562.1",59301,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Mayaro virus",5191
+"AF075256.1",60876,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Pixuna virus",38299
+"KJ782455.1",11588,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Phenuiviridae","Phlebovirus","Rift Valley fever phlebovirus",2138
+"KY616985.1",11034,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Sindbis virus",4070
+"MH484335.1",273347,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Tensaw orthobunyavirus",5447
+"KR013237.1",1678230,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae",NA,"Trubanaman virus",889
+"HQ842619.1",40060,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Umatilla virus",1283
+"KY426757.1",64286,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Usutu virus",747
+"AY823299.1",11036,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Venezuelan equine encephalitis virus",1097
+"AF473866.1",11277,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Vesiculovirus","Indiana vesiculovirus",543
+"FJ483549.1",11082,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","West Nile virus",54242
+"AF052446.1",11089,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Yellow fever virus",9038
+"KY989511.1",64320,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Zika virus",867381
+"JF459991.1",64293,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Tembusu virus",47136
+"NC_008719.1",44026,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Sepik virus",4666
+"MF380431",64290,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Bagaza virus",29022
+"KM225264.1",1534467,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Kokobera virus",3666
+"NC_043111",38837,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Banzi virus",8139
+"JN572071",273352,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Macaua orthobunyavirus",99633
+"KY910431.1",11575,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Maguari orthobunyavirus",8468
+"MH484311.1",80938,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Main Drain orthobunyavirus",6073
+"NC_034496.1",292278,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Marituba orthobunyavirus",8503
+"KF680222.1",11023,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Middelburg virus",1151
+"MF993533.1",60875,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Mucambo virus",1537
+"MT121985.1",59302,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Ndumu virus",15047
+"KX100131",273345,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Fort Sherman orthobunyavirus",394
+"NC_055117.1",35305,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","California encephalitis orthobunyavirus",3466
+"NC_022639.1",40052,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Changuinola virus",6842
+"NC_038726.1",1678225,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Catu orthobunyavirus",78998
+"AF079457.1",79899,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Onyong-nyong virus",33324
+"NC_043585.1",273341,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Ilesha orthobunyavirus",824
+"KC481679.1",59563,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Ilheus virus",619
+"KC734551.1",64291,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Israel turkey meningoencephalomyelitis virus",9230
+"MK896558.1",348026,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Oriboca orthobunyavirus",5950
+"HM566194.1",1972568,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Vesiculovirus","Jurona vesiculovirus",6122
+"KR260741",80939,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Kairi orthobunyavirus",8712
+"EU082202",44025,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Koutango virus",9056
+"NC_055206.1",45270,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Tahyna orthobunyavirus",2758
+"KJ495745.1",40061,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Wallal virus",4661
+"NC_038614.1",40062,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Warrego virus",79722
+"NC_023634.1",904698,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Phenuiviridae","Phlebovirus","Arumowot phlebovirus",5820
+"GU591167.1",11577,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","La Crosse orthobunyavirus",6606
+"KP271965.1",11033,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Semliki Forest virus",1042
+"NC_003901",44158,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Aura virus",955
+"NC_001786.1",11020,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Barmah Forest virus",8755
+"MG182017.2",64318,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Spondweni virus",752991
+"KM972724.1",1623310,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Tataguine orthobunyavirus",8642
+"EU707555.1",164416,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Wesselsbron virus",4909
+"KM085031",1272960,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Ephemerovirus","Yata ephemerovirus",5413
+"NC_028246.1",31612,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Ephemerovirus","Adelaide River ephemerovirus",692
+"NC_018461",11582,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Aino orthobunyavirus",5877
+"MH484299.1",159149,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Shuni orthobunyavirus",5257
+"NC_038594.1",40057,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Lebombo virus",646
+"NC_043631.1",80940,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Lumbo orthbunyavirus",NA
+"NC_038604.1",40058,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Orungo virus",440
+"KT002588.1",40059,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Palyam virus",61227
+"NC_043582.1",1133363,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Schmallenberg orthobunyavirus",18197
+"NC_043581.1",80942,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Batai orthobunyavirus",NA
+"NC_016962.1",59305,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Bebaru virus",5407
+"GQ287646.1",11039,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Western equine encephalitis virus",2343
+"AB981186.1",673515,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Quang Binh virus",4166
+"MN233331.1",11080,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Saint Louis encephalitis virus",6317
+"NC_034481.1",35316,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Nyando orthobunyavirus",9616
+"NC_018705.3",64292,"Viruses","Kitrinoviricota","Flasuviricetes","Amarillovirales","Flaviviridae","Flavivirus","Ntaya virus",3795
+"MG747542.1",118655,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Oropouche orthobunyavirus",76391
+"MK028843.1",11029,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Ross River virus",141
+"HM543465.1",204269,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","Great Island virus",5733
+"KP009781.1",40050,"Viruses","Duplornaviricota","Resentoviricetes","Reovirales","Reoviridae","Orbivirus","African horse sickness virus",282
+"KY012742.1",NA,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Ephemerovirus","Bovine fever ephemerovirus",9468
+"NC_038286.1",11274,"Viruses","Negarnaviricota","Monjiviricetes","Mononegavirales","Rhabdoviridae","Vesiculovirus","Piry vesiculovirus",3323
+"NC_016961",1159195,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Southern elephant seal virus",01650
+"NC_016961.1",48543,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Whataroa virus",6018
+"MN135989.1",35511,"Viruses","Negarnaviricota","Ellioviricetes","Bunyavirales","Peribunyaviridae","Orthobunyavirus","Jamestown Canyon orthobunyavirus",67516
+"NC_018615.1",1231903,"Viruses","Kitrinoviricota","Alsuviricetes","Martellivirales","Togaviridae","Alphavirus","Eilat virus",84601
+"NC_002691",12288,"Viruses","Kitrinoviricota","Magsaviricetes","Nodamuvirales","Nodaviridae","Alphanodavirus","Nodamura virus",775097
